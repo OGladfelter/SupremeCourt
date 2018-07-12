@@ -1,5 +1,8 @@
 # SupremeCourt
-An analysis of the polarization of the supreme court
+
+Data and analysis behind "Justice Kennedy's Retirement Will Lead To a More Divided Supreme Court": http://thedataface.com/2018/07/politics/supreme-court-divide 
+
+# Data
 
 Supreme Court data comes from The Supreme Court Database: http://scdb.wustl.edu/
 
